@@ -14,7 +14,7 @@
 - 😄 Pronouns: He/Him
 
 
-##💡 WHAT I DO
+## what i do
 
 📊 Data Analysis: Cleaning, transforming, and analyzing datasets to extract key insights.
 📈 Visualization: Creating interactive dashboards and reports using  Tableau .
