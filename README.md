@@ -72,11 +72,40 @@ I am a passionate Backend Developer specializing in Rust, focused on building hi
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gantasreevenkatsantoshdev&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=gantasreevenkatsantoshdev&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gantasreevenkatsantoshdev&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=gantasreevenkatsantoshdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+# 📊 Github Stats:
+
+[![My Skills](https://skillicons.dev/icons?i=rust,docker,kubernetes)](https://skillicons.dev)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gantasreevenkatsantoshdev&show_icons=true&theme=swift)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gantasreevenkatsantoshdev&theme=swift)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gantasreevenkatsantoshdev&layout=compact&theme=swift)
 
 
 
+
+
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gantasreevenkatsantoshdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gantasreevenkatsantoshdev)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=gantasreevenkatsantoshdev)
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/gantasreevenkatsantoshdev/gantasreevenkatsantoshdev/blob/output/github-contribution-grid-snake.svg)
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gantasreevenkatsantoshdev&repo=rust-learning)]
