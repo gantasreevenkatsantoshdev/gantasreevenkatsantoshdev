@@ -85,16 +85,6 @@ I am a passionate Backend Developer specializing in Rust, focused on building hi
 
 
 
-
-
-
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gantasreevenkatsantoshdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📈 Contribution Graph
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gantasreevenkatsantoshdev)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 👀 Profile Views
