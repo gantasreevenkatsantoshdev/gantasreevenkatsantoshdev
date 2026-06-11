@@ -104,8 +104,11 @@ I am a passionate Backend Developer specializing in Rust, focused on building hi
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/gantasreevenkatsantoshdev/gantasreevenkatsantoshdev/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gantasreevenkatsantoshdev/gantasreevenkatsantoshdev/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gantasreevenkatsantoshdev/gantasreevenkatsantoshdev/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/gantasreevenkatsantoshdev/gantasreevenkatsantoshdev/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gantasreevenkatsantoshdev&repo=rust-learning)]
