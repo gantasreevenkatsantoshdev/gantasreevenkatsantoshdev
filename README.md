@@ -81,7 +81,7 @@ I am a passionate Backend Developer specializing in Rust, focused on building hi
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gantasreevenkatsantoshdev&theme=swift)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gantasreevenkatsantoshdev&layout=compact&theme=swift)
+
 
 
 
