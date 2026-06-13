@@ -1,5 +1,5 @@
 
-<h1 align="center">🦀 Hi, I'm [Ganta sree venkat santosh dev]</h1>
+<h1 align="center">🦀 Hi, I'm Ganta sree venkat santosh dev</h1>
 <h3 align="center">Backend Rust Developer | Systems Programming | High-Performance APIs</h3>
 
 ---
