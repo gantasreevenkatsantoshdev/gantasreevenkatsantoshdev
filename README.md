@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ganta Sree Venkat Santosh Dev</h1>
+<h1 align="center">Hi 🦀, I'm Ganta Sree Venkat Santosh Dev</h1>
 
 <h3 align="center">
 Rust Backend Engineer • Solana Developer • Rust • Tokio • Axum • Anchor
@@ -182,18 +182,8 @@ Building high-performance backend systems and scalable Solana blockchain applica
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-
 [![My Skills](https://skillicons.dev/icons?i=rust,docker,kubernetes,postgres,redis,kafka)](https://skillicons.dev)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" height="180"/>
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="180"/>
-</p>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gantasreevenkatsantoshdev)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
