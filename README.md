@@ -188,6 +188,12 @@ Building high-performance backend systems and scalable Solana blockchain applica
 
 [![My Skills](https://skillicons.dev/icons?i=rust,docker,kubernetes,postgres,redis,kafka)](https://skillicons.dev)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="180"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="180"/>
+</p>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gantasreevenkatsantoshdev)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
