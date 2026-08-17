@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Update GitHub Stats
 
 on:
   schedule:
@@ -9,21 +9,33 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  stats:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: gantasreevenkatsantoshdev
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Push Snake to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Generate GitHub Stats
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=swift
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=swift
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit Stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/
+          git commit -m "Update GitHub stats" || exit 0
+          git push
