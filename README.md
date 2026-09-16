@@ -1,11 +1,11 @@
 <h1 align="center">Hi 🦀, I'm Ganta Sree Venkat Santosh Dev</h1>
 
 <h3 align="center">
-Rust Backend Engineer • Solana Developer • Rust • Tokio • Axum • Anchor
+Rust Backend Engineer • Rust • Tokio • Axum 
 </h3>
 
 <p align="center">
-Building high-performance backend systems and scalable Solana blockchain applications.
+Building high-performance backend systems .
 </p>
 
 ---
@@ -14,10 +14,8 @@ Building high-performance backend systems and scalable Solana blockchain applica
 
 - 🦀 Rust Backend Engineer with **2 years of hands-on experience**
 - ⚡ Building high-performance backend services using **Rust, Tokio, Axum, and Actix**
-- 🔗 Developing **Solana programs and blockchain applications** using **Rust and Anchor**
 - 🏗️ Experienced in **REST APIs, gRPC, microservices, asynchronous programming, and distributed systems**
 - 🗄️ Working with **PostgreSQL, SQLx, Redis, and Kafka**
-- ⛓️ Experienced with **Solana accounts, PDAs, CPI, transactions, and SPL tokens**
 - ☁️ Working with **Docker, Kubernetes, AWS, and CI/CD**
 - 📊 Focused on **performance, scalability, reliability, security, and clean architecture**
 
@@ -27,9 +25,7 @@ Building high-performance backend systems and scalable Solana blockchain applica
 
 - 🦀 Rust Backend Engineer with **2 years of experience**
 - ⚡ Building scalable and high-performance backend services with **Rust**
-- 🔗 Developing Solana programs using **Rust and Anchor**
 - 🚀 Experienced with **Tokio, Axum, PostgreSQL, Redis, Kafka, Docker, and Kubernetes**
-- ⛓️ Interested in **Solana protocols, blockchain infrastructure, and Web3 backend systems**
 - 🏗️ Passionate about **distributed systems, asynchronous programming, and performance optimization**
 - 💡 Focused on writing clean, maintainable, secure, and production-ready code
 - 📫 Email: **gsvsdevjobs@gmail.com**
@@ -53,20 +49,7 @@ Building high-performance backend systems and scalable Solana blockchain applica
 - Containerize applications using **Docker**
 - Deploy and manage services using **Kubernetes**
 - Build CI/CD pipelines using **GitHub Actions**
-
-### 🔗 Solana Development
-
-- Develop **Solana programs using Rust and Anchor**
-- Design Solana **accounts, instructions, and on-chain state**
-- Work with **Program Derived Addresses (PDAs)**
-- Implement **Cross-Program Invocations (CPI)**
-- Work with **SOL and SPL tokens**
-- Develop and test Solana transactions and program instructions
-- Write automated tests for Solana programs
-- Debug transaction failures and on-chain program errors
-- Deploy and test programs on **Solana Devnet**
-- Explore blockchain infrastructure, protocol development, and DeFi systems
-
+  
 ---
 
 ## 🚀 Projects
@@ -89,18 +72,6 @@ Building high-performance backend systems and scalable Solana blockchain applica
 - Implemented idempotency, retry mechanisms, backpressure handling, and dead-letter queues.
 - Added monitoring for queue lag, processing duration, retry counts, error rates, and worker utilization.
 - Containerized services using Docker and deployed using Kubernetes.
-
-### 🔗 Solana Program
-
-**Rust • Anchor • Solana**
-
-- Developed a Solana program for **[describe actual project]**.
-- Designed program instructions and on-chain account structures.
-- Implemented **PDAs** for deterministic account management.
-- Worked with **CPI and Solana transactions**.
-- Added account validation and program-level error handling.
-- Developed automated tests using Anchor.
-- Tested and deployed the program on Solana Devnet.
 
 ### 🛠️ Rust Deployment Automation CLI
 
@@ -131,11 +102,6 @@ Building high-performance backend systems and scalable Solana blockchain applica
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔗 Blockchain
-
-![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)
-![Anchor](https://img.shields.io/badge/Anchor-7C3AED?style=for-the-badge&logoColor=white)
 
 ### 🚀 Rust Backend
 
