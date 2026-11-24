@@ -1,98 +1,134 @@
 <h1 align="center">Hi 🦀, I'm Ganta Sree Venkat Santosh Dev</h1>
 
-<h3 align="center">
-Rust Backend Engineer • Rust • Tokio • Axum 
-</h3>
+<h3 align="center">Solana Developer • Rust Engineer • Blockchain Developer</h3>
 
 <p align="center">
-Building high-performance backend systems .
+Building high-performance blockchain applications and decentralized systems on Solana.
 </p>
 
 ---
 
 ## 📈 About Me
 
-- 🦀 Rust Backend Engineer with **2 years of hands-on experience**
-- ⚡ Building high-performance backend services using **Rust, Tokio, Axum, and Actix**
-- 🏗️ Experienced in **REST APIs, gRPC, microservices, asynchronous programming, and distributed systems**
-- 🗄️ Working with **PostgreSQL, SQLx, Redis, and Kafka**
-- ☁️ Working with **Docker, Kubernetes, AWS, and CI/CD**
-- 📊 Focused on **performance, scalability, reliability, security, and clean architecture**
+🔗 Solana Developer focused on building high-performance blockchain applications.
+
+🦀 Rust Engineer with 2 years of hands-on Rust experience.
+
+⚡ Passionate about developing Solana programs using Rust and Anchor.
+
+🏗️ Interested in smart contracts, on-chain programs, DeFi, and Web3 infrastructure.
+
+🔐 Exploring Solana account models, PDAs, CPIs, transactions, and program security.
+
+🗄️ Experienced in backend technologies including PostgreSQL, Redis, Kafka, and distributed systems.
+
+☁️ Familiar with Docker, Kubernetes, AWS, and CI/CD.
+
+📊 Interested in blockchain performance, scalability, security, and reliability.
 
 ---
 
 ## 👋 Hi there
 
-- 🦀 Rust Backend Engineer with **2 years of experience**
-- ⚡ Building scalable and high-performance backend services with **Rust**
-- 🚀 Experienced with **Tokio, Axum, PostgreSQL, Redis, Kafka, Docker, and Kubernetes**
-- 🏗️ Passionate about **distributed systems, asynchronous programming, and performance optimization**
-- 💡 Focused on writing clean, maintainable, secure, and production-ready code
-- 📫 Email: **gsvsdevjobs@gmail.com**
-- 😄 Pronouns: **He/Him**
+🔗 Exploring the Solana blockchain ecosystem.
+
+🦀 Strong foundation in Rust programming and asynchronous systems.
+
+⚡ Building scalable and efficient blockchain and backend applications.
+
+🚀 Learning Solana development with Anchor, Solana SDK, and SPL programs.
+
+🏗️ Interested in DeFi protocols, decentralized applications, and Web3 infrastructure.
+
+💡 Passionate about writing secure, optimized, and production-ready code.
+
+📫 Email: gsvsdevjobs@gmail.com
+
+😄 Pronouns: He/Him
 
 ---
 
 ## 💻 What I Do
 
-### 🦀 Rust Backend Development
+Solana Blockchain Development
 
-- Build high-performance backend services using **Rust**
-- Develop asynchronous applications using **Tokio**
-- Design REST APIs using **Axum / Actix Web**
-- Build **gRPC services** using Tonic
-- Develop microservices and event-driven systems
-- Work with **PostgreSQL, SQLx, Redis, and Kafka**
-- Implement authentication, authorization, RBAC, and rate limiting
-- Optimize database queries, connection pooling, caching, and application performance
-- Implement structured logging, tracing, metrics, and health checks
-- Containerize applications using **Docker**
-- Deploy and manage services using **Kubernetes**
-- Build CI/CD pipelines using **GitHub Actions**
+Develop on-chain programs using Rust.
+
+Build Solana programs with the Anchor framework.
+
+Work with Solana accounts and account ownership.
+
+Understand Program Derived Addresses (PDAs).
+
+Implement Cross-Program Invocations (CPIs).
+
+Work with Solana transactions and instructions.
+
+Explore SPL Token and Token-2022 programs.
+
+Understand transaction signing and wallet integration.
+
+Build and interact with decentralized applications.
+
+Explore Solana program testing and debugging.
+
+Focus on program security, compute unit optimization, and transaction efficiency.
   
 ---
 
 ## 🚀 Projects
 
-### 🦀 Low-Latency API Gateway
+🔗 Solana Token & Wallet Application
 
-**Rust • Axum • Tokio • Redis • PostgreSQL • OpenTelemetry • Docker**
+Rust • Solana • Anchor • TypeScript • Web3
 
-- Built an API gateway for handling high-throughput backend traffic.
-- Implemented routing, authentication middleware, rate limiting, request correlation, and structured logging.
-- Designed Redis-backed throttling and PostgreSQL-backed configuration.
-- Optimized connection pooling, serialization, middleware execution, and asynchronous request handling.
-- Added observability using tracing, metrics, and OpenTelemetry.
+Explore Solana wallet interactions and transaction construction.
 
-### ⚡ Event-Driven Processing Platform
+Develop token-related functionality using Solana programs.
 
-**Rust • Kafka • SQLx • PostgreSQL • Docker • Kubernetes**
+Work with account initialization and PDA derivation.
 
-- Built event-driven services for intake, validation, processing, retry, and recovery workflows.
-- Implemented idempotency, retry mechanisms, backpressure handling, and dead-letter queues.
-- Added monitoring for queue lag, processing duration, retry counts, error rates, and worker utilization.
-- Containerized services using Docker and deployed using Kubernetes.
+Explore SPL Token operations and token transfers.
 
-### 🛠️ Rust Deployment Automation CLI
+Implement transaction validation and error handling.
 
-**Rust • Clap • Serde • Reqwest • GitHub Actions**
+Test on-chain interactions using Solana development tools.
 
-- Built a Rust CLI for environment validation and deployment automation.
-- Implemented configuration parsing and deployment API integration.
-- Added dependency and environment checks before deployments.
-- Integrated the CLI with GitHub Actions for automated deployment workflows.
+⚡ Solana DeFi Protocol
+
+Rust • Solana • Anchor • PDAs • CPIs
+
+Explore the architecture of decentralized finance protocols.
+
+Develop on-chain program instructions using Anchor.
+
+Implement account validation and authorization.
+
+Work with PDAs for program-controlled accounts.
+
+Explore CPIs for interactions between Solana programs.
+
+Focus on secure instruction handling and compute optimization.
 
 ---
 
 ## 🎯 Career Goals
 
-- 🎯 Become a highly skilled **Rust Backend & Solana Engineer**
-- 🦀 Master advanced **Rust, async programming, and distributed systems**
-- 🔗 Build production-grade **Solana programs and blockchain infrastructure**
-- 🏗️ Contribute to **Solana protocols, DeFi, and Web3 infrastructure**
-- ☁️ Develop expertise in **cloud-native backend architecture**
-- 🌍 Contribute to **Rust and Solana open-source projects**
-- 💼 Work with engineering teams building high-performance backend and blockchain systems
+🔗 Become a skilled Solana Blockchain Developer.
+
+🦀 Master advanced Rust programming and the Solana programming model.
+
+🚀 Build production-grade Solana programs using Anchor.
+
+🔐 Develop expertise in smart contract security and auditing fundamentals.
+
+💰 Explore DeFi, DEXs, lending protocols, and token infrastructure.
+
+⚡ Understand Solana runtime, transactions, validators, and account architecture.
+
+🌍 Contribute to Solana and Rust open-source projects.
+
+🏗️ Build scalable blockchain infrastructure and Web3 applications.
 
 ---
 
@@ -100,8 +136,14 @@ Building high-performance backend systems .
 
 ### 🦀 Languages
 
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=anchor&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Solana Web3.js](https://img.shields.io/badge/Solana_Web3.js-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
 ### 🚀 Rust Backend
 
@@ -129,16 +171,23 @@ Building high-performance backend systems .
 
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
-- Unit Testing
-- Integration Testing
-- Contract Testing
-- Property Testing
-- Benchmarking
-- Profiling
-- Regression Testing
-- Distributed Tracing
-- Structured Logging
-- Metrics & Health Checks
+Unit Testing
+
+Integration Testing
+
+Solana Program Testing
+
+Anchor Testing
+
+Benchmarking
+
+Profiling
+
+Distributed Tracing
+
+Structured Logging
+
+Metrics & Health Checks
 
 ### 🛠️ Tools
 
